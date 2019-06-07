@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.16
+%Locale:0x804
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeSongStd-Light
+FamilyName:Adobe Song Std
+StyleName:L
+FullName:Adobe Song Std L
+MenuName:Adobe 宋体 Std L
+StyleBits:0
+FamilyNameNative:Adobe 宋体 Std
+StyleNameNative:L
+FullNameNative:Adobe 宋体 Std L
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\Ziwei\Desktop\MMA215\“poster”文件夹\Document fonts\AdobeSongStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:15589912
+FileModTime:1329340438
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Song Std L
+NameArray:25,Mac,4,Adobe 宋体 Std L
+NameArray:0,Win,1,Adobe Song Std L
+NameArray:0,Win,16,Adobe Song Std
+NameArray:25,Win,1,Adobe 宋体 Std L
+NameArray:25,Win,16,Adobe 宋体 Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+FullName:Georgia
+MenuName:Georgia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ziwei\Desktop\MMA215\“poster”文件夹\Document fonts\georgia.ttf
+DataFormat:sfntData
+FileLength:219712
+FileModTime:1523489650
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Georgia
+NameArray:0,Win,1,Georgia
+%EndFont
+

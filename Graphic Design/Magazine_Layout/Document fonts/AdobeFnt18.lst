@@ -1,0 +1,1442 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+MenuName:Georgia
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Georgia
+WritingScript:Roman
+OutlineFileName:\Georgia.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:379588
+FileModTime:1518984456
+NameArray:0,Mac,4,Georgia
+NameArray:0,Win,1,Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PalatinoLinotype-Italic
+FamilyName:Palatino Linotype
+StyleName:Italic
+MenuName:Palatino Linotype
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Palatino Linotype Italic
+WritingScript:Roman
+OutlineFileName:\Palatino Linotype Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:410260
+FileModTime:1339815600
+NameArray:0,Mac,4,Palatino Linotype Italic
+NameArray:0,Win,1,Palatino Linotype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:80
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:396
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:744
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:Bold Italic
+MenuName:Helvetica Neue
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Bold Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:1108
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Bold Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBold
+FamilyName:Helvetica Neue
+StyleName:Condensed Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:1472
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Condensed Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:UltraLight
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue UltraLight
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:1836
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue UltraLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLightItalic
+FamilyName:Helvetica Neue
+StyleName:UltraLight Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:100
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue UltraLight Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:2168
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue UltraLight Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Light
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:2532
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:Light Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Light Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:2880
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Light Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBlack
+FamilyName:Helvetica Neue
+StyleName:Condensed Black
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:900
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Black
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:3228
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Condensed Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Medium
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:3592
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:Medium Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Medium Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:3940
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Medium Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:Thin
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Thin
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:4208
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Thin
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:Thin Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Thin Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:4540
+DataFormat:sfntData
+hasSVG:no
+FileLength:6625220
+FileModTime:1518984454
+NameArray:0,Mac,4,Helvetica Neue Thin Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+MenuName:Minion Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:259940
+FileModTime:1465312133
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Ital
+NameArray:0,Mac,4,Minion Pro Italic
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-MediumItalic
+FamilyName:Franklin Gothic Medium
+StyleName:Italic
+MenuName:Franklin Gothic Medium
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Franklin Gothic Medium Italic
+WritingScript:Roman
+OutlineFileName:\Franklin Gothic Medium Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:152844
+FileModTime:1339815600
+NameArray:0,Mac,4,Franklin Gothic Medium Italic
+NameArray:0,Win,1,Franklin Gothic Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BigCaslon-Medium
+FamilyName:Big Caslon
+StyleName:Medium
+MenuName:Big Caslon
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Big Caslon Medium
+WritingScript:Roman
+OutlineFileName:\BigCaslon.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:223272
+FileModTime:1518984456
+NameArray:0,Mac,4,Big Caslon Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Regular
+FamilyName:Adobe Garamond Pro
+StyleName:Regular
+MenuName:Adobe Garamond Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Garamond Pro
+WritingScript:Roman
+OutlineFileName:\AGaramondPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:128748
+FileModTime:1465312132
+DesignSize:120
+NameArray:0,Mac,4,Adobe Garamond Pro
+NameArray:0,Win,1,Adobe Garamond Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-Regular
+FamilyName:Superclarendon
+StyleName:Regular
+MenuName:Superclarendon
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Superclarendon Regular
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:56
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Regular
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-Italic
+FamilyName:Superclarendon
+StyleName:Italic
+MenuName:Superclarendon
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Superclarendon Italic
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:356
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Italic
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-LightItalic
+FamilyName:Superclarendon
+StyleName:Light Italic
+MenuName:Superclarendon
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Superclarendon Light Italic
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:624
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Light Italic
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-Light
+FamilyName:Superclarendon
+StyleName:Light
+MenuName:Superclarendon
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Superclarendon Light
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:892
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Light
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-BoldItalic
+FamilyName:Superclarendon
+StyleName:Bold Italic
+MenuName:Superclarendon
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Superclarendon Bold Italic
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:1192
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Bold Italic
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-Bold
+FamilyName:Superclarendon
+StyleName:Bold
+MenuName:Superclarendon
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Superclarendon Bold
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:1460
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Bold
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-BlackItalic
+FamilyName:Superclarendon
+StyleName:Black Italic
+MenuName:Superclarendon
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Superclarendon Black Italic
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:1760
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Black Italic
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Superclarendon-Black
+FamilyName:Superclarendon
+StyleName:Black
+MenuName:Superclarendon
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Superclarendon Black
+WritingScript:Roman
+OutlineFileName:\SuperClarendon.ttc
+TTCOffset:2028
+DataFormat:sfntData
+hasSVG:no
+FileLength:2712224
+FileModTime:1518984456
+NameArray:0,Mac,4,Superclarendon Black
+NameArray:0,Win,1,Superclarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-Regular
+FamilyName:Athelas
+StyleName:Regular
+MenuName:Athelas
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Athelas Regular
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:40
+DataFormat:sfntData
+hasSVG:no
+FileLength:2325812
+FileModTime:1518984456
+NameArray:0,Mac,4,Athelas Regular
+NameArray:0,Win,1,Athelas
+NameArray:0,Win,16,Athelas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-Italic
+FamilyName:Athelas
+StyleName:Italic
+MenuName:Athelas
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Athelas Italic
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:340
+DataFormat:sfntData
+hasSVG:no
+FileLength:2325812
+FileModTime:1518984456
+NameArray:0,Mac,4,Athelas Italic
+NameArray:0,Win,1,Athelas
+NameArray:0,Win,16,Athelas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-BoldItalic
+FamilyName:Athelas
+StyleName:Bold Italic
+MenuName:Athelas
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Athelas Bold Italic
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:640
+DataFormat:sfntData
+hasSVG:no
+FileLength:2325812
+FileModTime:1518984456
+NameArray:0,Mac,4,Athelas Bold Italic
+NameArray:0,Win,1,Athelas
+NameArray:0,Win,16,Athelas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-Bold
+FamilyName:Athelas
+StyleName:Bold
+MenuName:Athelas
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Athelas Bold
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:940
+DataFormat:sfntData
+hasSVG:no
+FileLength:2325812
+FileModTime:1518984456
+NameArray:0,Mac,4,Athelas Bold
+NameArray:0,Win,1,Athelas
+NameArray:0,Win,16,Athelas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-Medium
+FamilyName:Futura
+StyleName:Medium
+MenuName:Futura
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Futura Medium
+WritingScript:Roman
+OutlineFileName:\Futura.ttc
+TTCOffset:44
+DataFormat:sfntData
+hasSVG:no
+FileLength:486592
+FileModTime:1518984456
+NameArray:0,Mac,4,Futura Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-MediumItalic
+FamilyName:Futura
+StyleName:Medium Italic
+MenuName:Futura
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Futura Medium Italic
+WritingScript:Roman
+OutlineFileName:\Futura.ttc
+TTCOffset:328
+DataFormat:sfntData
+hasSVG:no
+FileLength:486592
+FileModTime:1518984456
+NameArray:0,Mac,4,Futura Medium Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-Bold
+FamilyName:Futura
+StyleName:Bold
+MenuName:Futura
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Futura Bold
+WritingScript:Roman
+OutlineFileName:\Futura.ttc
+TTCOffset:612
+DataFormat:sfntData
+hasSVG:no
+FileLength:486592
+FileModTime:1518984456
+NameArray:0,Mac,4,Futura Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-CondensedMedium
+FamilyName:Futura
+StyleName:Condensed Medium
+MenuName:Futura
+StyleBits:0
+WeightClass:500
+WidthClass:3
+AngleClass:0
+FullName:Futura Condensed Medium
+WritingScript:Roman
+OutlineFileName:\Futura.ttc
+TTCOffset:912
+DataFormat:sfntData
+hasSVG:no
+FileLength:486592
+FileModTime:1518984456
+NameArray:0,Mac,4,Futura Condensed Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Futura-CondensedExtraBold
+FamilyName:Futura
+StyleName:Condensed ExtraBold
+MenuName:Futura
+StyleBits:2
+WeightClass:800
+WidthClass:3
+AngleClass:0
+FullName:Futura Condensed ExtraBold
+WritingScript:Roman
+OutlineFileName:\Futura.ttc
+TTCOffset:1196
+DataFormat:sfntData
+hasSVG:no
+FileLength:486592
+FileModTime:1518984456
+NameArray:0,Mac,4,Futura Condensed ExtraBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperBlackStd
+FamilyName:Cooper Std
+StyleName:Black
+MenuName:Cooper Std Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Cooper Std Black
+WritingScript:Roman
+OutlineFileName:\CooperBlackStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:35728
+FileModTime:1485347030
+DesignSize:180
+NameArray:0,Mac,4,Cooper Std Black
+NameArray:0,Win,1,Cooper Std Black
+NameArray:0,Win,16,Cooper Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AbadiMT-CondensedExtraBold
+FamilyName:Abadi MT Condensed Extra Bold
+StyleName:Regular
+MenuName:Abadi MT Condensed Extra Bold
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Abadi MT Condensed Extra Bold
+WritingScript:Roman
+OutlineFileName:\Abadi MT Condensed Extra Bold
+DataFormat:sfntResource
+ResourceID:6002
+hasSVG:no
+FileLength:69637
+FileModTime:1339815600
+NameArray:0,Mac,4,Abadi MT Condensed Extra Bold
+NameArray:0,Win,1,Abadi MT Condensed Extra Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:AbadiMT-CondensedExtraBold
+OutlineFileName:\Abadi MT Condensed Extra Bold
+ResourceID:3026
+MacStyle:0
+FileLength:69637
+FileModTime:1339815600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:AbadiMT-CondensedExtraBold
+OutlineFileName:\Abadi MT Condensed Extra Bold
+ResourceID:3026
+MacStyle:1
+FileLength:69637
+FileModTime:1339815600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PalatinoLinotype-Roman
+FamilyName:Palatino Linotype
+StyleName:Regular
+MenuName:Palatino Linotype
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Palatino Linotype
+WritingScript:Roman
+OutlineFileName:\Palatino Linotype.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:469100
+FileModTime:1339815600
+NameArray:0,Mac,4,Palatino Linotype
+NameArray:0,Win,1,Palatino Linotype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TwCenMT-Italic
+FamilyName:Tw Cen MT
+StyleName:Italic
+MenuName:Tw Cen MT
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Tw Cen MT Italic
+WritingScript:Roman
+OutlineFileName:\Tw Cen MT Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:78236
+FileModTime:1339815600
+NameArray:0,Mac,4,Tw Cen MT Italic
+NameArray:0,Win,1,Tw Cen MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Bold
+FamilyName:Minion Pro
+StyleName:Bold
+MenuName:Minion Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Bold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218116
+FileModTime:1465312133
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro Bold
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Book
+FamilyName:Avenir
+StyleName:Book
+MenuName:Avenir Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Book
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Book
+NameArray:0,Mac,4,Avenir Book
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BookOblique
+FamilyName:Avenir
+StyleName:Book Oblique
+MenuName:Avenir Book
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Book Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:388
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Book Oblique
+NameArray:0,Mac,4,Avenir Book Oblique
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Black
+FamilyName:Avenir
+StyleName:Black
+MenuName:Avenir Black
+StyleBits:2
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Avenir Black
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:704
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Black
+NameArray:0,Mac,4,Avenir Black
+NameArray:0,Win,1,Avenir Black
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BlackOblique
+FamilyName:Avenir
+StyleName:Black Oblique
+MenuName:Avenir Black Oblique
+StyleBits:3
+WeightClass:800
+WidthClass:5
+AngleClass:1
+FullName:Avenir Black Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:1004
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Black Oblique
+NameArray:0,Mac,4,Avenir Black Oblique
+NameArray:0,Win,1,Avenir Black Oblique
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Heavy
+FamilyName:Avenir
+StyleName:Heavy
+MenuName:Avenir Heavy
+StyleBits:2
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Avenir Heavy
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:1304
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Heavy
+NameArray:0,Mac,4,Avenir Heavy
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-HeavyOblique
+FamilyName:Avenir
+StyleName:Heavy Oblique
+MenuName:Avenir Heavy
+StyleBits:3
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Avenir Heavy Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:1588
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Heavy Oblique
+NameArray:0,Mac,4,Avenir Heavy Oblique
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Light
+FamilyName:Avenir
+StyleName:Light
+MenuName:Avenir Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Avenir Light
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:1904
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Light
+NameArray:0,Mac,4,Avenir Light
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-LightOblique
+FamilyName:Avenir
+StyleName:Light Oblique
+MenuName:Avenir Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Avenir Light Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:2220
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Light Oblique
+NameArray:0,Mac,4,Avenir Light Oblique
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Medium
+FamilyName:Avenir
+StyleName:Medium
+MenuName:Avenir Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Medium
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:2536
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Medium
+NameArray:0,Mac,4,Avenir Medium
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-MediumOblique
+FamilyName:Avenir
+StyleName:Medium Oblique
+MenuName:Avenir Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Avenir Medium Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:2836
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Medium Oblique
+NameArray:0,Mac,4,Avenir Medium Oblique
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Oblique
+FamilyName:Avenir
+StyleName:Oblique
+MenuName:Avenir
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:3152
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Oblique
+NameArray:0,Mac,4,Avenir Oblique
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Roman
+FamilyName:Avenir
+StyleName:Roman
+MenuName:Avenir
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Roman
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:3468
+DataFormat:sfntData
+hasSVG:no
+FileLength:1639536
+FileModTime:1518984455
+NameArray:0,Mac,18,Avenir Roman
+NameArray:0,Mac,4,Avenir Roman
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-Medium
+FamilyName:Franklin Gothic Medium
+StyleName:Regular
+MenuName:Franklin Gothic Medium
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Medium
+WritingScript:Roman
+OutlineFileName:\Franklin Gothic Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:135984
+FileModTime:1339815600
+NameArray:0,Mac,4,Franklin Gothic Medium
+NameArray:0,Win,1,Franklin Gothic Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:\Arial.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:774476
+FileModTime:1339815600
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Bold
+FamilyName:Adobe Garamond Pro
+StyleName:Bold
+MenuName:Adobe Garamond Pro Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Adobe Garamond Pro Bold
+WritingScript:Roman
+OutlineFileName:\AGaramondPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:77064
+FileModTime:1465312132
+DesignSize:120
+NameArray:0,Mac,4,Adobe Garamond Pro Bold
+NameArray:0,Win,1,Adobe Garamond Pro Bold
+NameArray:0,Win,16,Adobe Garamond Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1465312133
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialRoundedMTBold
+FamilyName:Arial Rounded MT Bold
+StyleName:Regular
+MenuName:Arial Rounded MT Bold
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial Rounded MT Bold
+WritingScript:Roman
+OutlineFileName:\Arial Rounded Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:49296
+FileModTime:1518984456
+NameArray:0,Mac,4,Arial Rounded MT Bold
+NameArray:0,Win,1,Arial Rounded MT Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-BookItalic
+FamilyName:Franklin Gothic Book
+StyleName:Italic
+MenuName:Franklin Gothic Book
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Franklin Gothic Book Italic
+WritingScript:Roman
+OutlineFileName:\Franklin Gothic Book Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:169620
+FileModTime:1339815600
+NameArray:0,Mac,4,Franklin Gothic Book Italic
+NameArray:0,Win,1,Franklin Gothic Book
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-Bold
+FamilyName:Arial Narrow
+StyleName:Bold
+MenuName:Arial Narrow
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Arial Narrow Bold
+WritingScript:Roman
+OutlineFileName:\Arial Narrow Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:184420
+FileModTime:1518984456
+NameArray:0,Mac,4,Arial Narrow Bold
+NameArray:0,Win,1,Arial Narrow
+%EndFont
+
