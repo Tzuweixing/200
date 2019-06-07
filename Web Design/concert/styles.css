@@ -1,0 +1,29 @@
+body{background-color: #7F675B;}
+
+h1{font-family: 'Slabo 27px', serif;
+color: #E2D4BA;
+    margin:30px;
+}
+h3{font-family: 'Slabo 27px', serif;
+color: #E2D4BA;
+    margin:20px;
+}
+
+p{color:  whitesmoke;}
+
+.navbar, .bg-light, .navbar-light{
+    background-color: #D56659;
+}
+
+.jumbotron{background-color: #282b28}
+    #141115 ;}
+
+  
+section{
+                height:400px;
+                background-color: coral;
+                margin-bottom: 10px;
+     
+                
+            }
+/*img{margin-top: 20px;}*/
